@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.marialartsapp.MainActivity">
+   <item
+       android:id="@+id/addMartialarts"
+       android:title="Add Martial Arts"
+       />
+    <item
+        android:id="@+id/deleteMartialarts"
+        android:title="Delete Martial Arts"/>
+    <item
+        android:id="@+id/updateItem"
+        android:title="Update Item"/>
+    <item
+        android:id="@+id/Reset"
+        android:title="Reset the value"/>
+</menu>
